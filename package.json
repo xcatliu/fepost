@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xcatliu/fepost/issues"
   },
-  "homepage": "https://github.com/xcatliu/fepost"
+  "homepage": "https://github.com/xcatliu/fepost",
+  "dependencies": {
+    "hexo": "~2.6.0"
+  }
 }
