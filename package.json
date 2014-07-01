@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git://github.com/xcatliu/fepost.git"
   },
-  "author": "xcatliu <xcatliu@gmail.com>",
+  "author": "xcatliu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xcatliu/fepost/issues"
