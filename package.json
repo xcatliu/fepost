@@ -16,5 +16,7 @@
     "url": "https://github.com/xcatliu/fepost/issues"
   },
   "homepage": "https://github.com/xcatliu/fepost",
-  "dependencies": {}
+  "dependencies": {
+    "koa": "~0.8.2"
+  }
 }
