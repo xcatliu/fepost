@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/xcatliu/fepost",
   "dependencies": {
-    "koa": "~0.8.2"
+    "koa": "~0.8.2",
+    "koa-static": "^1.4.6"
   }
 }
