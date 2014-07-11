@@ -4,6 +4,7 @@
   "description": "A post collection website for front-end engineer",
   "main": "index.js",
   "scripts": {
+    "server": "./bin/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
