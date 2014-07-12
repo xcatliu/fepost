@@ -5,6 +5,13 @@ http://fepost.com/
 
 A post collection website for front-end engineer
 
+Start
+-----
+
+```
+npm run server
+```
+
 Milestone
 ---------
 
