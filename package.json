@@ -20,6 +20,9 @@
   "dependencies": {
     "koa": "~0.8.2",
     "koa-static": "^1.4.6",
-    "gulp": "^3.8.8"
+    "gulp": "^3.8.8",
+    "hexo-renderer-ejs": "*",
+    "hexo-renderer-stylus": "*",
+    "hexo-renderer-marked": "*"
   }
 }
