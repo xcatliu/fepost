@@ -1,6 +1,6 @@
 {
   "name": "fepost",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A post collection website for front-end engineer",
   "main": "index.js",
   "scripts": {
