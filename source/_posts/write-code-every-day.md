@@ -1,4 +1,5 @@
 ---
+title: Write Code Every Day
 author: John Resig
 categories: blog
 ---
